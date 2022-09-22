@@ -1,0 +1,51 @@
+.speech {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.song {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.direction {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: aqua;
+    
+}
+.direction:hover{
+    color: green;
+    background-color: azure;
+    
+}
+.name {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.CHORUS{
+    color: coral;
+}
+.DAME{
+    color: coral;
+}
+.WOMEN{
+    color: coral;
+}
+.WILFRED{
+    color: coral;
+}
+.POINT{
+    color: coral;
+}
+.FAIRFAX{
+    color: coral;
+}
+.ALL{
+    color: coral;
+}

@@ -51,6 +51,15 @@
 .ALL{
     color: orange;
 }
+.JANE{
+    color: green;
+}
+.GROS{
+    color: pink;
+}
+.ANGELA{
+    color: red;
+}
 
 #singers th {
     padding-top: 12px;
@@ -67,6 +76,11 @@
   table, th, td {
     border: 1px solid black;
   }
+  .name:hover{
+    color: darkblue;
+    background-color: yellow;
+    
+}
    
 
 

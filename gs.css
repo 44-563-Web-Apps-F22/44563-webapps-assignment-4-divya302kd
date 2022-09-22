@@ -19,7 +19,7 @@
 }
 .direction:hover{
     color: green;
-    background-color: azure;
+    background-color: red;
     
 }
 .name {
@@ -32,20 +32,43 @@
     color: coral;
 }
 .DAME{
-    color: coral;
+    color: indigo;
+    font-style: normal;
+    
 }
 .WOMEN{
-    color: coral;
+    color: blue;
 }
 .WILFRED{
-    color: coral;
+    color: green;
 }
 .POINT{
-    color: coral;
+    color: red;
 }
 .FAIRFAX{
-    color: coral;
+    color: violet;
 }
 .ALL{
-    color: coral;
+    color: orange;
 }
+
+#singers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:red;
+    color: white;
+  }
+
+  #singers td, #singers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+   
+
+
+
+
